@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">A CS student @ umich</h3>
 
-- 🔭 I’m currently working on **C++ Stuff**
+- 🔭 I’m currently working on **C++** Projects and learning more about low level programming
 
-- ⚡ and I'm Incoming @ SWE intern **Point72**
+
+- ⚡ and I'm an Incoming SWE intern @ **Point72**
+
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
